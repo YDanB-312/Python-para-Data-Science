@@ -2,7 +2,7 @@
 edad = int(input("Ingresa tu edad: "))
 tieneLicencia = input("¿Tienes licencia de conducir? (si/no): ")
 
-#Se declara la variable que tendráel resultado.
+#Se declara la variable que tendrá el resultado.
 puedeConducir = ""
 
 #Se verifica si la edad es mayor o igual a 18 y si tiene licencia de conducir.
